@@ -1,0 +1,7 @@
+{
+  "name": "finance-analysis",
+  "version": "0.1.0",
+  "description": "Finance analysis toolkit for PEREPA EDU: variance and ratio analysis, GST/TDS reconciliation, financial statement review, and training lab generation, using Indian business conventions.",
+  "author": { "name": "PEREPA EDU" },
+  "keywords": ["finance", "gst", "tds", "variance", "ratios", "training"]
+}
