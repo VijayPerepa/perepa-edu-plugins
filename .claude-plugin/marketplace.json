@@ -1,12 +1,21 @@
 {
   "name": "perepa-edu-plugins",
-  "owner": { "name": "PEREPA EDU" },
-  "metadata": { "description": "PEREPA EDU plugins for finance and technology training" },
+  "owner": {
+    "name": "PEREPA EDU"
+  },
+  "metadata": {
+    "description": "PEREPA EDU plugins for finance and technology training"
+  },
   "plugins": [
     {
       "name": "finance-analysis",
       "source": "./plugins/finance-analysis",
       "description": "Variance and ratio analysis, GST/TDS reconciliation, financial statement review and training labs with Indian conventions."
+    },
+    {
+      "name": "account-analysis-prep",
+      "source": "./plugins/account-analysis-prep",
+      "description": "Account analysis preparation: trial balance mapping to Schedule III, GL scrutiny, audit-ready account schedules, and ageing with balance confirmation reconciliation."
     }
   ]
 }
