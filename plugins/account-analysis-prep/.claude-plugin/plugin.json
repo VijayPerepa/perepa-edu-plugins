@@ -2,6 +2,17 @@
   "name": "account-analysis-prep",
   "version": "0.1.0",
   "description": "Account analysis preparation for PEREPA EDU: trial balance mapping to Schedule III, GL account scrutiny, audit-ready account analysis schedules, and receivable/payable ageing with balance confirmation reconciliation, using Indian conventions.",
-  "author": { "name": "PEREPA EDU" },
-  "keywords": ["account analysis", "ledger scrutiny", "trial balance", "schedule iii", "ageing", "audit", "reconciliation"]
+  "author": {
+    "name": "PEREPA EDU"
+  },
+  "keywords": [
+    "account analysis",
+    "ledger scrutiny",
+    "trial balance",
+    "schedule iii",
+    "ageing",
+    "audit",
+    "reconciliation"
+  ],
+  "icon": ".claude-plugin/icon.png"
 }
